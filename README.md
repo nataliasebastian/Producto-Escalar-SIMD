@@ -47,7 +47,7 @@ Este proyecto contiene dos progamas C para el cálculo del producto escalar entr
    ```sh
    ./ejecutable > output.txt
    ```
-* Segunda opción: ejecutar [productoEscalar.sh](productoEscalar.sh) directamente
+* Segunda opción: ejecutar [productoEscalar.sh](productoEscalar.sh) directamente (solo disponible para Linux y MacOS)
  	```sh
   	./productoEscalar.sh
  	 ```
