@@ -8,7 +8,7 @@ Este proyecto contiene dos progamas C para el cálculo del producto escalar entr
 
 
 ## Diseñado con 
-* [C++](https://www.cplusplus.com/)
+* [C](https://www.cprogramming.com/)
 * [Intrínsecos AVX2](https://www.intel.es/content/www/es/es/architecture-and-technology/avx-512-overview.html)
 
 
