@@ -53,7 +53,13 @@ Este proyecto contiene dos progamas C para el cálculo del producto escalar entr
  	 ```
  
 ## Resultados
+Los tiempos de ejecución para distintos tamaños de vectorees se guardarán en output.txt para la versión tradicional y la versión SIMD.
 
+El diagrama de dispersión para una muestra de 100 vectores es el siguiente:
+
+[](https://i.postimg.cc/prH9T5tw/Gra-fica-comparativa.png)
+
+Como podemos observar, la versión SIMD es más rápida que la tradicional.
 
 
 ## Autores
