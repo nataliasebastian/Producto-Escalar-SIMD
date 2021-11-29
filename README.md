@@ -31,10 +31,10 @@ Este proyecto contiene dos progamas C para el cálculo del producto escalar entr
 
 ## Descripción de archivos
 
-* productoEscalar.c - programa que contiene dos métodos (uno tradicional, otro con intrínsecos SIMD) para el cálculo del producto escalar de 2 vectores en C. 
-* output.txt - contiene los resultados y tiempos de ejecución de productoEscalar.c
-* productoEscalar.sh - contiene las instrucciones descritas en el apartado Uso
-* resultados.xlsx - hoja de cálculo con algunos resultados significativos de las ejecuciones y una representación gráfica
+* [productoEscalar.c](productoEscalar.c)- programa que contiene dos métodos (uno tradicional, otro con intrínsecos SIMD) para el cálculo del producto escalar de 2 vectores en C. 
+* [output.txt](output.txt) - contiene los resultados y tiempos de ejecución de productoEscalar.c
+* [productoEscalar.sh](productoEscalar.sh) - contiene las instrucciones descritas en el apartado Uso
+* [resultados.xlsx](resultados.xlsx) - hoja de cálculo con algunos resultados significativos de las ejecuciones y una representación gráfica
 
 ## Uso
 * Primera opción:
