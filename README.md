@@ -57,7 +57,8 @@ Los tiempos de ejecución para distintos tamaños de vectorees se guardarán en 
 
 El diagrama de dispersión para una muestra de 100 vectores es el siguiente:
 
-![](https://i.postimg.cc/prH9T5tw/Gra-fica-comparativa.png)
+<img width="563" alt="68747470733a2f2f692e706f7374696d672e63632f70724839543574772f4772612d666963612d636f6d70617261746976612e706e67" src="https://user-images.githubusercontent.com/81468329/144596031-61ce7dd9-01b5-452f-8f3f-73b6c727cf2c.png">
+
 
 Como podemos observar, la versión SIMD es más rápida que la tradicional.
 
