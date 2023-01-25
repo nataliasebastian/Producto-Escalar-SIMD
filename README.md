@@ -3,7 +3,7 @@
 
 ## Sobre el proyecto
 
-Este proyecto contiene dos progamas C para el cálculo del producto escalar entre dos vectores.  Uno de ellos utiliza una versión tradicional de suma vectorial, mientras que el otro hace uso de intrínsecos SIMD AVX2  (de Intel). El objetivo de este proyecto es comparar los tiempos de ejecución de ambas versiones.
+Este proyecto contiene dos programas en C para el cálculo del producto escalar entre dos vectores.  Uno de ellos utiliza una versión tradicional de suma vectorial, mientras que el otro hace uso de intrínsecos SIMD AVX2  (de Intel). El objetivo de este proyecto es comparar los tiempos de ejecución de ambas versiones.
 
 
 
